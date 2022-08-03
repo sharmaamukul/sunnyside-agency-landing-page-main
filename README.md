@@ -1,4 +1,4 @@
-![active-states](https://user-images.githubusercontent.com/107469120/182601327-a737a992-f5e3-433d-89f6-3c8b008082d5.jpg)
+
 # Frontend Mentor - Sunnyside agency landing page
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
